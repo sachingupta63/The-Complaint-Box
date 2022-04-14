@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">The Complaint Box</string>
+    <string name="Complaint_Box">Complaint Box</string>
+    <string name="register">Sign Up</string>
+    <string name="login">Login</string>
+
+</resources>
